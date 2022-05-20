@@ -1,6 +1,6 @@
 # round-robin
 
-This is a  Phyton script for 1:1 round-robin tournament
+This is a  Phyton script for 1:1 round-robin tournament. **Useful for speedbacks sessions.**
 
 Use: 
 
